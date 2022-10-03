@@ -1,2 +1,2 @@
 # nmonopoli.github.io
-Personal portfolio
+Personal portfolio created with HTML/CSS/JS
